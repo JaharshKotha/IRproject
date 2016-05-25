@@ -5,3 +5,5 @@ eclipse [normal arguments] -vmargs -Xmx256M [more VM args]
 or 
 
 java -Xmx6g jranker
+
+This helps the eclipse ide to increase the heap mwmory which is used by the program.
